@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @guth0
 - 👀 I’m interested in random personal projects
-- 🌱 I’m currently learning python (I want to learn any of the C languages after I am proficent in python)
-- 📫 How to reach me dont.email.me@pease.gov
+- 🌱 I’m currently learning javascript and arduino (will continue to C languanges after)
