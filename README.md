@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @guth0
 - 👀 I’m interested in random personal projects
-- 🌱 I’m currently learning javascript and arduino (will continue to C languanges after)
+- 🧠 I am pofiencet in Python, TS/JS
+- 🌱 I'm learning c++ and c currently
