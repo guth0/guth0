@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @guth0
+- 👋 Hi, I’m Lucas Gutheim
 - 👀 I’m interested in random personal projects
-- 🧠 I am pofiencet in Python, TS/JS
-- 🌱 I'm learning c++ and c currently
+- 🧠 My Favorite language is c++ 🤤
+- 🌱 I am proficient with python, JS/TS, c++, and bash 
